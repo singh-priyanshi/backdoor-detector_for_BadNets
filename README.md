@@ -75,9 +75,6 @@ Learn about the GoodNet model, which combines the original Backdoor Model and th
 ### Results: Goodnet Accuracy v/s Attack success rate on Test dataset
 ![image](https://github.com/singh-priyanshi/backdoor-detector_for_BadNets/assets/31034647/e645c3f6-427a-464d-acae-39dbffe95902)
 
-![image](https://github.com/singh-priyanshi/backdoor-detector_for_BadNets/assets/31034647/313d9263-402d-491a-9c0e-6537e7027fbd)
-
-
 ## Customization and Contributions
 
 Feel free to customize the code, experiment with different models, datasets, or defense strategies. Contributions to enhancing the security of machine learning models against backdoor attacks are welcome!
