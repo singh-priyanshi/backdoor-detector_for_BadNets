@@ -73,6 +73,8 @@ Explore the results of the defense strategy on the validation dataset. Visualize
 Learn about the GoodNet model, which combines the original Backdoor Model and the Repaired Backdoor Model. Evaluate the GoodNet model's performance on the test dataset and understand its ability to detect anomalies in case of backdoor attacks.
 
 ### Results: Goodnet Accuracy v/s Attack success rate on Test dataset
+<img width="631" alt="Screenshot 2023-12-04 at 9 40 32 PM" src="https://github.com/singh-priyanshi/backdoor-detector_for_BadNets/assets/31034647/d19cd8e4-a26d-4edd-9b01-c108c305f0c9">
+
 ![image](https://github.com/singh-priyanshi/backdoor-detector_for_BadNets/assets/31034647/e645c3f6-427a-464d-acae-39dbffe95902)
 
 ## Customization and Contributions
